@@ -9,13 +9,17 @@
  *		[4] DISPLAY()  ---> Display the content of stack.
  */
 
+/*
+ *	@author : Vivek
+ */
+
 #include<stdio.h>
 #include<stdlib.h>
 
 #define MAX_STACK_SIZE 50
 #define true 1
 #define false 0
-#define and ||
+#define and &&
 
 int is_empty();
 int is_full();
