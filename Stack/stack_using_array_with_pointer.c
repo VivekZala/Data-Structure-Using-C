@@ -1,9 +1,9 @@
 /*
  *	Program to implement stack using pointer.
  *	Functions:
- *		[1] PUSH()     ---> Insert the element.
- *		[2] POP()      ---> Delete element.
- *		[3] PEEK()     ---> Return the top element.
+ *		[1] PUSH()     ---> Insert element at the top of stack.
+ *		[2] POP()      ---> Delete element from the top of stack.
+ *		[3] PEEK()     ---> Return the top element of the stack.
  *		[4] IS_FULL()  ---> Return true if stack is full else false.
  *		[5] IS_EMPTY() ---> Return true if stack is empty else false.
  *		[6] DISPLAY()  ---> Display the content of stack.
