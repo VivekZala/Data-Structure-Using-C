@@ -6,11 +6,11 @@
  *		[3] PEEK()     ---> Return top element.
  *		[4] IS_FULL()  ---> Return true if stack is full else false.
  *		[5] IS_EMPTY() ---> Return true if stack is empty else false.
- *		[4] DISPLAY()  ---> Display the content of stack.
+ *		[6] DISPLAY()  ---> Display the content of stack.
  */
 
 /*
- *	@author : Vivek
+ *	@author: Vivek
  */
 
 #include<stdio.h>
