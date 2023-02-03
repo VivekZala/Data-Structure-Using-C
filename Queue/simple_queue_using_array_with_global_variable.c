@@ -142,8 +142,7 @@ int main()
 				enqueue(element);
 				break;
 
-			case 2: element = dequeue();
-				element == false ? display() : printf("\nDeleted element is [%d]\n", queue[front]);
+			case 2: dequeue() == false ? display() : printf("\nDeleted element is [%d]\n", queue[front]);
 				break;
 
 			case 3: requeue();
